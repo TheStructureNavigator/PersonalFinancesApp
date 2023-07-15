@@ -1,0 +1,21 @@
+Transaction Date,Contractor,Title,Transaction Amount,Balance
+2023-01-01,ContractorName1,SomeTitle1,-100.0,1900.0
+2023-01-02,ContractorName3,SomeTitle2,-300.0,1600.0
+2023-01-03,ContractorName1,SomeTitle3,-50.0,1550.0
+2023-01-04,ContractorName1,SomeTitle4,500.0,2050.0
+2023-01-05,ContractorName2,SomeTitle5,-5.5,2044.5
+2023-01-06,ContractorName2,SomeTitle6,-350.0,1694.5
+2023-01-07,ContractorName1,SomeTitle7,-1070.0,624.5
+2023-01-08,ContractorName1,SomeTitle8,1000.0,1624.5
+2023-01-09,ContractorName2,SomeTitle9,-56.7,1567.8
+2023-01-10,ContractorName4,SomeTitle10,-13.4,1554.4
+2023-01-11,ContractorName3,SomeTitle11,-3450.0,-1895.6
+2023-01-12,ContractorName3,SomeTitle12,7645.65,5750.049999999999
+2023-01-13,ContractorName4,SomeTitle13,-1200.0,4550.049999999999
+2023-01-14,ContractorName2,SomeTitle14,-20.0,4530.049999999999
+2023-01-15,ContractorName3,SomeTitle15,-56.4,4473.65
+2023-01-16,ContractorName4,SomeTitle16,-750.0,3723.6499999999996
+2023-01-17,ContractorName1,SomeTitle17,820.0,4543.65
+2023-01-18,ContractorName2,SomeTitle18,-300.0,4243.65
+2023-01-19,ContractorName3,SomeTitle19,-150.0,4093.6499999999996
+2023-01-20,ContractorName4,SomeTitle20,-870.0,3223.6499999999996
